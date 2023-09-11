@@ -16,7 +16,7 @@
 
 <img width="180" alt="Logo_Short" src="https://user-images.githubusercontent.com/73041689/218108873-dd5daaaa-2874-43d3-a089-8403dda3e18f.png">
 
-- Member of [RESEARCH GROUP] (LINK OF RESEARCH GROUP) -->
+- Member of [IBIOMECH] (https://ingbiomedica.uniandes.edu.co/es/investigacion/lineas-investigacion/biomecanica) -->
 
 
 <!-- Showing what you work on, lets other collaborate with you -->
@@ -24,29 +24,28 @@
 
 ### Previous:
 
-- Previous research topics #1
-- Previous research topics #2
+- Development of an allograft to reinforce the spring ligament
+- Biomechanical analysis of vertigo based on stabilometry tests
 
 ### Current:
 
-- Current research topic #1
-- Current research topic #2
+- Simulation of the behavior of otoconia detached from the utricular macula of the inner ear and its relationship with benign paroxysmal positional vertigo (BPPV)
 
 <!-- Topics that you haven't research yet but are intriguing to you -->
 ### Future interests:
 
-- Future interests research topic #1
-- Future interests research topic #2
+- Clinical research and lab
+- 3D printing
 
 
 <!-- Because we are humans before researchers -->
 ## Hobbies
 
-- Hooby #1
-- Hooby #2
+- Crochet
+- Cooking
 
 
 ## Contact
 
-You can reach me at <email@example.com>
+You can reach me at <ma.hoyosa@uniandes.edu.co>
 
