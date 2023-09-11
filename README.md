@@ -1,14 +1,12 @@
-# Hi, I'm (YOUR NAME)
+# Hi, I'm María Alejandra Hoyos Agudelo
 
 <!-- A short sentence that can  describe who you are -->
 
 <!-- All of your education background -->
 ## Education
 
-- Bachelor: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
-- Master: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
--  Doctorate: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
-- Post Doctorate: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
+- Bachelor: Biomedical Engineering from [Universidad de los Andes](https://uniandes.edu.co/)
+- Master: Student in Biomedical Engineering at [Universidad de los Andes](https://uniandes.edu.co/)
 
 <!-- While BIOMAC is our common group, the collaboration between groups and affiliations are encourage -->
 ## Affiliations
