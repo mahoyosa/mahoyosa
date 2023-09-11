@@ -16,9 +16,6 @@
 
 <img width="180" alt="Logo_Short" src="https://user-images.githubusercontent.com/73041689/218108873-dd5daaaa-2874-43d3-a089-8403dda3e18f.png">
 
-- Member of [IBIOMECH] (https://ingbiomedica.uniandes.edu.co/es/investigacion/lineas-investigacion/biomecanica)
-
-
 <!-- Showing what you work on, lets other collaborate with you -->
 ## Research
 
