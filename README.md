@@ -42,7 +42,7 @@
 ## Hobbies
 
 - Crochet
-- Cooking
+- Cooking :)
 
 
 ## Contact
